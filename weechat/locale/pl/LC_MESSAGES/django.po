@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: WeeChat.org\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-12 18:35+0200\n"
-"PO-Revision-Date: 2026-09-06 12:33+0200\n"
+"PO-Revision-Date: 2026-09-17 19:01+0200\n"
 "Last-Translator: Krzysztof Korościk <soltys@soltys.info>\n"
 "Language-Team: Polish <soltys@soltys.info>\n"
 "Language: pl\n"
@@ -7439,7 +7439,7 @@ msgstr ""
 #. Translators: description for script "tennis.py" (4.1.0+)
 #: scripts/_i18n_scripts.py:361
 msgid "Live tennis scores and ATP/WTA rankings on demand."
-msgstr ""
+msgstr "Wyniki tenisa na żywo i rankingi ATP/WTA na żądanie."
 
 #. Translators: description for script "input_lock.rb" (0.3.0+)
 #: scripts/_i18n_scripts.py:363
@@ -7721,7 +7721,7 @@ msgstr ""
 #. Translators: description for script "qr_code.py" (0.3.0+)
 #: scripts/_i18n_scripts.py:461
 msgid "QR code generator."
-msgstr ""
+msgstr "Generator kodów QR."
 
 #. Translators: description for script "jisearch.py" (0.3.5+)
 #: scripts/_i18n_scripts.py:463
